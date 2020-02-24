@@ -1,5 +1,12 @@
 # E06b-Sound-and-Music
 
+I made a couple sound effects. The first one is a chapstick lid. The second sound is a page turning. The third sound is my key rattling against a spinning object.
+I used Sunvox to make a basic music loop since I'm already kinda vaguely familiar with it (Unfortunately being vaguely familiar does not mean I'm good at it lol).
+
+This project uses Godot 3.2
+
+==================================
+
 This is an opportunity for you to create sound effects and music and make them a part of your games going forward. Fork and Clone this repository to your computer.
 
 First, you will need to download and install audio recording software. I recommend using [Audacity](https://www.audacityteam.org/download/), it is free and it should allow you to quickly accomplish the requirements of this exercise.
